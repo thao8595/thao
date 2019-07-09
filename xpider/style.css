@@ -1,0 +1,134 @@
+*{
+	box-sizing: border-box;
+}
+
+.btn-outline-light1{
+	font-size: 15px;
+	padding-top: 10px;
+	border-radius: 20PX;
+	background-color: blue;
+	color: white;
+}
+.text{	
+	font-size: 30px;
+	padding-top: 100px;
+	text-align: center;
+
+}
+
+.text1{
+font-size: 18px;
+	padding-top: 10px;
+	text-align: center;
+}
+h6{
+text-align: center;
+}
+img.t2 {
+	padding-top: 20px;
+	display: block;
+ margin:auto;
+  
+}
+.ab{
+	padding-top: 30px;
+	font-size: 18px;
+
+}
+#abc{
+	color: blue;
+}
+
+.banner{
+	position: relative;
+
+}
+.co{
+		margin-left: 82px;
+	position: absolute;
+	padding: 0;
+	margin-top: -300px; 
+}
+.chu{
+	position: absolute;
+	padding: 0;
+	margin-top: -250px;
+}
+#idi{
+	font-size: 15px;
+}
+
+#xanh{
+  border: 0.0625rem solid #E7EAEE;
+	width: 400px;
+	margin: auto;
+	text-align: center;
+}
+#xanh:hover{
+	color: white;
+background-color: blue;
+}
+.btn-outline-light{
+	background-color:white;
+	color: blue;
+	margin-left:auto;
+}
+
+.cangiua{
+	background-color: blue;
+	color: white;
+	max-width: auto;
+	height: 400px;
+	padding-top:200px;
+	text-align: center;
+}
+.nut{
+	padding-top: 50px;
+}
+
+.container{
+	padding-top: 10%;
+}
+
+footer{
+  margin-top: 100px;
+  background-color:#fcfcfc;
+  text-align:center;
+  padding:25px;
+  font-size:18px;
+}
+footer .container{
+  background:#fcfcfc;
+}
+footer .container .row{
+
+  display:flex;
+}
+ul{
+
+  display:flex;
+}
+ul li{
+  list-style:none;
+}
+ul li a{
+    text-decoration: none;
+  margin:20px;
+  width:50%;
+ color: black;
+}
+#indam a{
+	font-size: 16px;
+	color: black;
+	line-height: 2rem;
+}
+.avatar{
+	position: relative;
+	    border: 0.0625rem solid #E7EAEE;
+	    max-width: 100%;
+}
+.check{
+	padding-top: 30px;
+	text-align: center;
+	text-decoration: none;
+}
