@@ -1,0 +1,136 @@
+
+.btn1{
+  color: white;
+  background-color:#74BAE1;
+width: 72%;
+  font-size:18px;
+  border-radius:15px;
+padding: 10px;
+margin-left: 20px;
+
+}
+.text{
+  padding-top:10px;
+}
+#tieude{
+  font-size: 30px;
+   font-family: Montserrat-Regular;
+
+}
+.chuxanh{
+ font-family: Montserrat-Regular;
+ margin-left: 25px;
+  font-size: 30px;
+
+  }
+p{
+  font-family: Avenir Next;
+   color: #3D3D3D;
+  margin-top: 10px;
+  font-size: 15px;
+}
+
+.name{
+  margin-left: 25px;
+  padding-top: 30px;
+  font-family: Avenir Next;
+  color: #3D3D3D;
+}
+.col-md-offset-4{
+   margin-left: 323px;
+   margin-top: -27%;
+}
+.progress-bar{
+  border-radius: 15px;
+ background-color: #74BAE1;
+}
+.progress{
+  border-radius: 15px;
+  max-width: 430px;
+  background-color: #F6F6F6;
+}
+.ten{
+  color: #3D3D3D;
+}
+
+.vanban{
+  padding-top: 20px;
+}
+img{
+  padding-top: 30px;
+  width: 75%;
+  margin-left: 15px;
+
+}
+#anhdau{
+  padding-top: 30px;
+}
+.row{
+  margin-right: 30px;
+}
+#menu{
+  border-bottom: #F6F6F6 solid 1px;
+  padding-top: 20px;
+  border-width: 60%;
+   font-size: 41px;
+padding-left: 30px;
+padding-right: 150px;
+
+}
+.inhoa{
+  padding-top: 20px;
+  color:#3D3D3D;
+  font-size: 30px;
+}
+li{
+  color: #3D3D3D;
+max-width: 90%;
+  font-size: 15px;
+  font-family: Avenir Next;
+}
+#anhcon{
+ margin-top: -4px;
+  margin-left: -4px;
+}
+#anh{
+  margin-left: -5px;
+  margin-top: 30px;
+}
+.P-3{
+  padding: 0.5rem;
+}
+.mb-5{
+    margin-bottom:2px!important;
+}
+
+.shadow-sm{
+ border-radius: 10px;
+  background-color: #FFFFFF;
+  max-width:90%;
+padding-top: 20px;
+}
+#cot{
+  width: 430px;
+  background-color:#F6F6F6;
+}
+#hang1{
+  margin-left: 180px;
+  width: 40px;
+}
+#hang2{
+ margin-left: 240px;
+  width: 40px;
+}
+#hang3{
+  margin-left: 129px;
+  width: 40px;
+}
+#hang4{
+  margin-left: 293px;
+  width: 40px;
+}
+.tieude{
+  color:#3D3D3D;
+  font-size: 30px;
+  font-family: Montserrat-Regular;
+}
