@@ -38,6 +38,7 @@ list-style: none;
       }
 
       .topnav .icon {
+         padding-right: 2rem;
           display: none;
       }
 
@@ -135,4 +136,21 @@ list-style: none;
 #frmInbox label.error {
     color: red;
     font-style: italic;
+}
+footer{
+  padding-top: 10px;
+  padding-bottom: 30px;
+  margin-top:30px;
+  background-color: black;
+
+}
+h6{ 
+  padding-top: 20px;
+  margin-top: 30px;
+  color: white;
+}
+
+li{
+
+list-style: none;
 }

@@ -167,18 +167,20 @@ padding-top: 10px;
 }
 
 footer{
-	padding-bottom: 30px;
-	margin-top:30px;
-	background-color: black;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  margin-top:30px;
+  background-color: black;
 
 }
 h6{ 
-	padding-top: 20px;
-	margin-top: 30px;
-	color: white;
+  padding-top: 20px;
+  margin-top: 30px;
+  color: white;
 }
 
 li{
+
 list-style: none;
 }
 .myButton{
