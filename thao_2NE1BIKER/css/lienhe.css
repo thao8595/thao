@@ -1,0 +1,156 @@
+  body {
+        margin:0;
+        padding: 0;
+      }
+      h2 {
+        text-align: center;
+      }
+      .menu{
+        padding-right: 2%;
+
+      }
+      .topnav {
+    font-family: Arial,Helvetica,sans-serif;
+font-size: 15px;
+line-height: 1.5;
+color: #333;
+margin: 0;
+padding: 0;
+list-style: none;
+  overflow: hidden;
+ background-color: #333;
+      }
+
+      .topnav a {
+          float: left;
+          display: block;
+          color: #f2f2f2;
+          text-align: center;
+          padding: 14px 16px;
+          text-decoration: none;
+          font-size: 17px;
+      }
+
+      .topnav a:hover {
+        text-decoration: none;
+          background-color:;
+          color:yellow;
+      }
+
+      .topnav .icon {
+         padding-right: 2rem;
+          display: none;
+      }
+
+      @media screen and (max-width: 600px) {
+          .topnav a:not(:first-child) {
+            display: none;
+          }
+          .topnav a.icon {
+            float: right;
+            display: block;
+          }
+      }
+
+      @media screen and (max-width: 600px) {
+        .topnav.responsive {
+          position: relative;
+        }
+        .topnav.responsive .icon {
+            position: absolute;
+            right: 0;
+            top: 0;
+         }
+          .topnav.responsive a {
+            float: none;
+            display: block;
+            text-align: left;
+          }
+      }
+        
+#myTopnav{
+	background-color:#111111;
+  overflow: visible;
+  position: fixed !important;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+#menu{
+  padding: 0.5rem;
+}
+
+.box-hotro {
+    width: 1000px;
+    margin: 0 auto;
+    clear: both;
+    color: #000;
+    padding: 30px 0;
+}
+.box-hotro {
+    width: 1000px;
+    margin: 0 auto;
+    clear: both;
+    color: #000;
+    padding: 30px 0;
+}
+.left-box-hotro {
+    padding-left: 6px;
+    padding-right: 6px;
+}
+.box-hotro h2 {
+
+    font-family: 'RobotoCondensed';
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    font-size: 20px;
+    color: #900;
+    text-align: center;
+}
+#chude {
+    margin-top: 80px;
+    font-size: 2rem;
+}
+.col-hotro .item-hotro {
+    border: 1px solid #ccc;
+    padding: 11px 8px;
+}
+.img-hotro {
+    max-height: 18px;
+    margin-right: 5px;
+    vertical-align: text-bottom;
+}
+#guiyeucau {
+    background-color:green;
+    color: red;
+    padding: 6px;
+    border: 0;
+    width: 100%;
+    height: 30px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+#frmInbox label.error {
+    color: red;
+    font-style: italic;
+}
+footer{
+  padding-top: 10px;
+  padding-bottom: 30px;
+  margin-top:30px;
+  background-color: black;
+
+}
+h6{ 
+  padding-top: 20px;
+  margin-top: 30px;
+  color: white;
+}
+
+li{
+
+list-style: none;
+}
